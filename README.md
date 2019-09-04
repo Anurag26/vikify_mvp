@@ -1,5 +1,18 @@
-# vikify_mvp
-MVP candidate for the professional vlogs sharing platform!
+# [Vikify](http://vikify.in/)
+
+**Vikify is the first premium vlog platform that aims to bring personalized career concierge service to everyone. Started by a bunch of IIT IIM alumni, Vikify is looking to disrupt the tedious mentoring & recruitment procedures.**
+
+**Get connected to real achievers across domains of Engineering,Management & more to find “been-there-done-that” career experiences.**
+- **Get advice on different examination hacks, preparation tips and Exclusive video resume based interview prep.**
+- **Get associated with upcoming startups & hear their”behind-the-scene” stories**
+- **We bring the best in the world of Finance, Consulting, Startups and more in touch with the recent and “would-be” graduates across colleges all over India.**
+
+
+
+Get connected to real achievers across domains of Engineering,Management & more to find “been-there-done-that” career experiences.
+Get advice on different examination hacks, preparation tips and Exclusive video resume based interview prep.
+Get associated with upcoming startups & hear their”behind-the-scene” stories
+We bring the best in the world of Finance, Consulting, Startups and more in touch with the recent and “would-be” graduates across colleges all over India.
 
 ```
 Copyright 2018 Anurag Sanjay Bannur
