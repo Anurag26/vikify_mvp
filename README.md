@@ -7,12 +7,12 @@
 - **Get associated with upcoming startups & hear their”behind-the-scene” stories**
 - **We bring the best in the world of Finance, Consulting, Startups and more in touch with the recent and “would-be” graduates across colleges all over India.**
 
+## Android Application
+
+#### Get the APK [here](https://github.com/Anurag26/Executables/blob/master/vikify_release.apk)
 
 
-Get connected to real achievers across domains of Engineering,Management & more to find “been-there-done-that” career experiences.
-Get advice on different examination hacks, preparation tips and Exclusive video resume based interview prep.
-Get associated with upcoming startups & hear their”behind-the-scene” stories
-We bring the best in the world of Finance, Consulting, Startups and more in touch with the recent and “would-be” graduates across colleges all over India.
+
 
 ```
 Copyright 2018 Anurag Sanjay Bannur
